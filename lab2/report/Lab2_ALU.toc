@@ -1,0 +1,25 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{3}{section*.1}%
+\contentsline {section}{\numberline {1}Теоретические сведения}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Двоичное сложение}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Полусумматор и сумматор}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Арифметико-логическое устройство}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Синтез полусумматора}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Исходные данные}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Аналитические выражения}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Варианты реализации}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Моделирование полусумматора}{6}{section.3}%
+\contentsline {section}{\numberline {4}Синтез одноразрядного комбинационного сумматора}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Исходные данные}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Аналитические выражения в СДНФ}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Минимизация}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Выбор варианта реализации}{9}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Моделирование одноразрядного сумматора}{10}{section.5}%
+\contentsline {section}{\numberline {6}Исследование АЛУ К155ИП3 (SN74181)}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Назначение и выводы микросхемы}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Функции, выполняемые микросхемой}{13}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Схема исследования}{15}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Исследование логических операций}{16}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Исследование арифметических операций}{18}{subsection.6.5}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{21}{section*.24}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{22}{section*.25}%
